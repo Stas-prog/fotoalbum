@@ -1,0 +1,32 @@
+body.light {
+    background-image: url('assets/ftft.jpg');
+    background-size: cover;
+}
+
+body.dark {
+    background-image: url('assets/ftf.jpg');
+    background-size: cover;
+}
+
+body.fine {
+    background-image: url('assets/fine.jpg');
+    background-size: cover;
+}
+
+.place {
+    background-color: #1E90FF;
+    color: #FFFF00;
+    font-weight: bold;
+}
+
+.batt {
+    color: #00FF00;
+}
+
+button.mt-4 {
+    background-color: #FF4500;
+    font-weight: 600;
+    color: #FFFF00;
+}
+
+/* #AFEEEE */
